@@ -1,10 +1,10 @@
-**IP:**
+IP:
 
-**URL:**
+URL:
 
-**E-mail:**
+E-mail:
 
-**About the Issue:**
+About the Issue:
 
 
 
